@@ -1,4 +1,5 @@
-Análisis de sentimientos
+Análisis de sentimientos  - Proyecto 4 Geeks Academy
+  
 Los modelos Naive Bayes son muy útiles cuando queremos analizar sentimientos, clasificar textos en tópicos o recomendaciones, ya que las características de estos desafíos cumplen muy bien con los supuestos teóricos y metodológicos del modelo.
 
 En este proyecto practicarás con un conjunto de datos para crear un clasificador de reseñas de la tienda de Google Play.
